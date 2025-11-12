@@ -7,7 +7,7 @@ import java.util.*;
 
 public class FileManager {
 
-   private static final String FILE_NAME = "b.csv";
+   private static final String FILE_NAME = "bookdata.csv";
 
    // Load books from file
    public static Map<Integer, Book> loadBooks() {
