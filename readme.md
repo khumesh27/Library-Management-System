@@ -1,4 +1,4 @@
-# LMS_Project
+# Library Management System Project
 
 Simple, extensible Learning Management System (LMS) starter project.
 
